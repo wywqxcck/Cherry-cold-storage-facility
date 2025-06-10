@@ -1,0 +1,12 @@
+.\objects\gizwits_protocol.o: Gizwits\gizwits_protocol.c
+.\objects\gizwits_protocol.o: .\Utils\ringBuffer.h
+.\objects\gizwits_protocol.o: E:\MDK5\ARM\ARMCLANG-5\Bin\..\include\stdint.h
+.\objects\gizwits_protocol.o: E:\MDK5\ARM\ARMCLANG-5\Bin\..\include\stdio.h
+.\objects\gizwits_protocol.o: E:\MDK5\ARM\ARMCLANG-5\Bin\..\include\stdlib.h
+.\objects\gizwits_protocol.o: E:\MDK5\ARM\ARMCLANG-5\Bin\..\include\string.h
+.\objects\gizwits_protocol.o: Gizwits\gizwits_product.h
+.\objects\gizwits_protocol.o: Gizwits\gizwits_protocol.h
+.\objects\gizwits_protocol.o: E:\MDK5\ARM\ARMCLANG-5\Bin\..\include\stdbool.h
+.\objects\gizwits_protocol.o: .\Utils\common.h
+.\objects\gizwits_protocol.o: E:\MDK5\ARM\ARMCLANG-5\Bin\..\include\ctype.h
+.\objects\gizwits_protocol.o: .\Utils\dataPointTools.h
